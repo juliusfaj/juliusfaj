@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">I am a self-taught frontend developer who has a passion for creating engaging user interfaces and experiences with the newest, most effective technologies and design frameworks. Delivering the best, simplest, and most practical long-term solutions that satisfy the client's needs is my aim.</h3>
 
-- 🔭 I’m currently working on [Mobile app website](mobileappbyfaj.netlify.app)
+- 🔭 I’m currently working on [Mobile app website](https://github.com/juliusfaj/mobile-App-website)
 
 - 🌱 I’m currently learning **Nextjs**
 
